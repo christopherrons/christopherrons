@@ -1,7 +1,7 @@
 # Profile
 
 Since August 2020 I have been working as software developer within the financial industry. The projects I create on my
-`Github` vary from small simulations to large scale distributed system which I deploy and monitor in my `Homelab`. Most
+`Github` vary from small simulations to large scale distributed systems which I deploy and monitor in my `Homelab`. Most
 of the code is done in `Java`, as this is what I use professionally, but also some `Python` and `C++`.
 
 I create these projects because I enjoy testing new technologies and improving my code design and architecture while
