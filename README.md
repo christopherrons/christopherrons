@@ -31,7 +31,7 @@ the time of working with the project.
 * [Trading Simulator](https://github.com/christopherrons/trading-simulator)
 
 ### C++
-
+* [Physics Simulation](https://github.com/christopherrons/physics-simulations)
 * [Mandelbrot Set Visualizer](https://github.com/christopherrons/mandelbrot)
 * [Disease Simulation](https://github.com/christopherrons/disease-simulations)
 
