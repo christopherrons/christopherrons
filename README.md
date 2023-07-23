@@ -37,7 +37,7 @@ the time of working with the project.
 
 ### Python
 
-* [Dividend Yield Strategi](https://github.com/christopherrons/dividend-yield-strategi)
+* [Dividend Yield Strategy](https://github.com/christopherrons/dividend-yield-strategy)
 * [Portfolio Analyser](https://github.com/christopherrons/portfolio-analyser)
 * [App Tradebot](https://github.com/christopherrons/app-tradebot)
 
