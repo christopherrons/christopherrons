@@ -23,6 +23,7 @@ the time of working with the project.
 
 * [Herron Exchange](https://github.com/christopherrons/herron-exchange):
     * [Herron Trading Engine](https://github.com/christopherrons/herron-trading-engine)
+    * [Herron Pricing Engine](https://github.com/christopherrons/herron-pricing)
     * [Herron Common Api](https://github.com/christopherrons/herron-common-api)
     * [Herron Bitstamp Consumer](https://github.com/christopherrons/herron-bitstamp-consumer)
 * [Financial Services](https://github.com/christopherrons/financial-services)
