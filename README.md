@@ -22,7 +22,7 @@ the time of working with the project.
 ### Java
 
 * [Herron Exchange](https://github.com/christopherrons/herron-exchange):
-    * [Herron Reference Data Service]([https://github.com/christopherrons/herron-trading-engine](https://github.com/christopherrons/herron-reference-data-service))
+    * [Herron Reference Data Service]([https://github.com/christopherrons/herron-trading-engine](https://github.com/christopherrons/herron-reference-data-service)
     * [Herron Trading Engine](https://github.com/christopherrons/herron-trading-engine)
     * [Herron Pricing Engine](https://github.com/christopherrons/herron-pricing)
     * [Herron Common Api](https://github.com/christopherrons/herron-common-api)
