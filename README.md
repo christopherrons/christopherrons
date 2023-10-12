@@ -26,7 +26,7 @@ the time of working with the project.
     * [Herron Trading Engine](https://github.com/christopherrons/herron-trading-engine)
     * [Herron Pricing Engine](https://github.com/christopherrons/herron-pricing)
     * [Herron Common Api](https://github.com/christopherrons/herron-common-api)
-    * [Herron Bitstamp Consumer](https://github.com/christopherrons/herron-bitstamp-consumer)
+    * [Herron Event Generator](https://github.com/christopherrons/herron-event-generator)
 * [Financial Services](https://github.com/christopherrons/financial-services)
 * [Arbitrage Betting](https://github.com/christopherrons/arbitrage-betting)
 * [Bingo Lotto Simulation](https://github.com/christopherrons/bingolotto-uppesittar-simulation)
