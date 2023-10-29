@@ -28,7 +28,7 @@ the time of working with the project.
     * [Herron Common Api](https://github.com/christopherrons/herron-common-api)
     * [Herron Event Generator](https://github.com/christopherrons/herron-event-generator)
     * [Herron Integration Api](https://github.com/christopherrons/herron-integration-api)
-    * [Herron QuantLib Api](https://github.com/christopherrons/herron-quant-lib-api)
+    * [Herron QuantLib Api](https://github.com/christopherrons/herron-quantlib-api)
 * [Financial Services](https://github.com/christopherrons/financial-services)
 * [Arbitrage Betting](https://github.com/christopherrons/arbitrage-betting)
 * [Bingo Lotto Simulation](https://github.com/christopherrons/bingolotto-uppesittar-simulation)
