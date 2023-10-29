@@ -26,9 +26,9 @@ the time of working with the project.
     * [Herron Integration Api](https://github.com/christopherrons/herron-integration-api)
     * [Herron QuantLib Api](https://github.com/christopherrons/herron-quantlib-api)
     * [Herron Reference Data Service](https://github.com/christopherrons/herron-reference-data-service)
-    * [Herron Market Data Service](https://github.com/christopherrons/herron-market-data-service)
     * [Herron Event Generator](https://github.com/christopherrons/herron-event-generator)
     * [Herron Trading Engine](https://github.com/christopherrons/herron-trading-engine)
+    * [Herron Pricing Engine](https://github.com/christopherrons/herron-pricing-engine)
 
 * [Financial Services](https://github.com/christopherrons/financial-services)
 * [Arbitrage Betting](https://github.com/christopherrons/arbitrage-betting)
