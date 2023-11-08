@@ -21,7 +21,7 @@ the time of working with the project.
 
 ### Java
 
-* [Herron Exchange](https://github.com/christopherrons/herron-exchange):
+* [Herron Exchange](https://github.com/christopherrons/herron-exchange) - on hold:
     * [Herron Common Api](https://github.com/christopherrons/herron-common-api) - currently working on
     * [Herron Integration Api](https://github.com/christopherrons/herron-integration-api) - currently working on
     * [Herron QuantLib Api](https://github.com/christopherrons/herron-quantlib-api) - currently working on
