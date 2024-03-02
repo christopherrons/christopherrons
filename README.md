@@ -21,14 +21,14 @@ the time of working with the project.
 
 ### Java
 
-* [Herron Exchange](https://github.com/christopherrons/herron-exchange) - on hold:
-    * [Herron Common Api](https://github.com/christopherrons/herron-common-api) - currently working on
-    * [Herron Integration Api](https://github.com/christopherrons/herron-integration-api) - currently working on
-    * [Herron QuantLib Api](https://github.com/christopherrons/herron-quantlib-api) - currently working on
-    * [Herron Reference Data Service](https://github.com/christopherrons/herron-reference-data-service) - currently working on
-    * [Herron Event Generator](https://github.com/christopherrons/herron-event-generator) - currently working on
-    * [Herron Trading Engine](https://github.com/christopherrons/herron-trading-engine) - currently working on
-    * [Herron Pricing Engine](https://github.com/christopherrons/herron-pricing-engine) - currently working on
+* Herron Exchange:
+    * [Herron Common Api](https://github.com/christopherrons/herron-common-api) 
+    * [Herron Integration Api](https://github.com/christopherrons/herron-integration-api)
+    * [Herron QuantLib Api](https://github.com/christopherrons/herron-quantlib-api)
+    * [Herron Reference Data Service](https://github.com/christopherrons/herron-reference-data-service)
+    * [Herron Event Generator](https://github.com/christopherrons/herron-event-generator)
+    * [Herron Trading Engine](https://github.com/christopherrons/herron-trading-engine)
+    * [Herron Pricing Engine](https://github.com/christopherrons/herron-pricing-engine)
 
 * [Financial Services](https://github.com/christopherrons/financial-services)
 * [Arbitrage Betting](https://github.com/christopherrons/arbitrage-betting)
