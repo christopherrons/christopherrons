@@ -21,7 +21,7 @@ the time of working with the project.
 
 ### Java
 
-* Herron Exchange:
+* [Herron Exchange](https://github.com/christopherrons/herron-exchange) :
     * [Herron Common Api](https://github.com/christopherrons/herron-common-api) 
     * [Herron Integration Api](https://github.com/christopherrons/herron-integration-api)
     * [Herron QuantLib Api](https://github.com/christopherrons/herron-quantlib-api)
