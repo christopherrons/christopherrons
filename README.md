@@ -68,7 +68,7 @@ List of technologies I have tried and used in my projects.
 		<code><img height="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger" /></code>
 </div>
 
-### Database
+### Persistance
 
 <div>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
